@@ -14,6 +14,8 @@ Project description started
 
 Фото замеров:
 
-[замер 1]("..\Pictures\Measure_1.png")
-[замер 1_1]("..\Pictures\Measure_1_1.png")
-[замер 1_2]("..\Pictures\Measure_1_2.png")
+![замер 1](../Pictures/Measure_1.png)
+
+![замер 1_1](../Pictures/Measure_1_1.png)
+
+![замер 1_2](../Pictures/Measure_1_2.png)
