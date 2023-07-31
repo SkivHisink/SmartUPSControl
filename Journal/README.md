@@ -12,10 +12,12 @@ Project description started
 
 Проведены замеры напряжения и тест перехода с питания от сети на питание от батарей.
 
-Фото замеров:
+<details>
+    <summary>Фото замеров</summary>
 
 ![замер 1](../Pictures/Measure_1.png)
 
 ![замер 1_1](../Pictures/Measure_1_1.png)
 
 ![замер 1_2](../Pictures/Measure_1_2.png)
+</details>
